@@ -51,6 +51,8 @@ The frontend development server should now be running on `http://localhost:3000`
 - View and manage your task list.
 - Delete tasks by clicking on the delete button associated with each task.
 
-## Hosted Link - https://covid-details-management.vercel.app/
+## Hosted Link 
+
+https://task-manager-client-r6b9.vercel.app/
 
 

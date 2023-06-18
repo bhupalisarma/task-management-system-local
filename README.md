@@ -3,13 +3,6 @@
 Task Manager is a web application built with React on the frontend and TypeScript and Node.js on the backend. It allows users to register, log in, create tasks, view their task list, and delete tasks.
 
 
-## Video walkthrough
-https://github.com/bhupalisarma/task-management-system-local/assets/85697658/d5d5edb0-e8f0-4a55-a5a7-79507b092757
-
-
-
-
-
 ## Backend Technologies Used
 
 - Node.js: JavaScript runtime environment used for server-side development.
@@ -57,5 +50,9 @@ The frontend development server should now be running on `http://localhost:3000`
 - Create tasks by providing a task title and description.
 - View and manage your task list.
 - Delete tasks by clicking on the delete button associated with each task.
+
+## Hosted Link 
+
+https://task-manager-client-r6b9.vercel.app/
 
 
